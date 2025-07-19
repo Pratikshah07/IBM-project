@@ -1,0 +1,11 @@
+Timestamp,Location,Vehicle_Count,Vehicle_Speed,Peak_Off_Peak,Congestion_Level,Target_Vehicle_Count
+2023-01-01 00:00:00,Highway,83,41,Off-Peak,3,94
+2023-01-01 01:00:00,Suburb,45,68,Peak,1,22
+2023-01-01 02:00:00,Downtown,91,25,Peak,5,67
+2023-01-01 03:00:00,Arterial,28,55,Off-Peak,0,15
+2023-01-01 04:00:00,Highway,77,33,Peak,4,81
+2023-01-01 05:00:00,Suburb,19,61,Off-Peak,2,49
+2023-01-01 06:00:00,Arterial,53,18,Peak,5,30
+2023-01-01 07:00:00,Downtown,62,49,Off-Peak,1,73
+2023-01-01 08:00:00,Highway,37,70,Peak,2,55
+2023-01-01 09:00:00,Suburb,99,21,Off-Peak,4,88
